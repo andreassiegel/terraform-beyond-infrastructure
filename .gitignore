@@ -33,3 +33,6 @@ config.auto.tfvars
 
 # Exclude christmas-tree example
 christmas-tree.log
+
+# Exclude outlook auth info
+.terraform-provider-outlook.json
