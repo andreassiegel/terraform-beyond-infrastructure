@@ -36,3 +36,6 @@ christmas-tree.log
 
 # Exclude outlook auth info
 .terraform-provider-outlook.json
+
+# Exclude spotify auth server config
+.env
