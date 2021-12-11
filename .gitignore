@@ -28,5 +28,8 @@ override.tf.json
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
 
-# Exlucde configuration files
+# Exclude configuration files
 config.auto.tfvars
+
+# Exclude christmas-tree example
+christmas-tree.log
