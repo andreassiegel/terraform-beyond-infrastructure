@@ -1,7 +1,8 @@
 variable "owner" {
-  type = string
+  type        = string
 }
 
 variable "token" {
-  type = string
+  type        = string
+  sensitive   = true
 }
